@@ -284,5 +284,11 @@ footer.nav-link{
         margin: auto;
     }
 
+        .card{
+        width: 18rem;
+        height: 10rem;
+    }
+
+
    
 }
