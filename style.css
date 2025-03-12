@@ -279,5 +279,10 @@ footer.nav-link{
         margin-left: 15px;
     }
 
+        .left-img img{
+        width: 300px;
+        margin: auto;
+    }
+
    
 }
