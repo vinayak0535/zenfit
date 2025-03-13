@@ -279,13 +279,18 @@ footer.nav-link{
         
     }
 
+    .right-img{
+        margin:0;
+    }
+
        .right-img img{
-        width: 180px;
-        height: 120px;    
+        width: 140px;
+        height: 100px;
+           margin-left:0;
     }
 
         .left-img img{
-        width: 300px;
+        width: 320px;
         margin: auto;
     }
 
