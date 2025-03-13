@@ -274,10 +274,19 @@ footer.nav-link{
         margin: auto;
         margin-top: 10px;
           padding: 20px;
-        height: 400px;
+        height: 430px;
         width: 300px;
         
     }
+
+    .plan i{
+        font-size:14px;
+    }
+
+     section.plans li{
+    padding-block: 2px;
+
+     }
 
     .right-img{
         margin:0;
