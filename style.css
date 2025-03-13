@@ -295,17 +295,24 @@ footer.nav-link{
        .right-img img{
         width: 140px;
         height: 100px;
-           margin-left:0;
+        margin-left:0;
     }
 
         .left-img img{
-        width: 320px;
-        margin: auto;
+        width: 330px;
+        margin: 0;
     }
 
         .card{
-       width: 16rem !important;
+       width: 18rem !important;
     }
+
+    .cta h1{
+        font-size:18px;
+    }
+
+    .cta p{
+        font-size:16px
 
 
    
