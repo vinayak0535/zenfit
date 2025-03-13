@@ -312,8 +312,11 @@ footer.nav-link{
     }
 
     .cta p{
-        font-size:16px
+        font-size:16px;
+}
 
+        .navbar-toggler {
+        border-color: white;
+    }
 
-   
 }
