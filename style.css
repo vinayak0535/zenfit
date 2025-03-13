@@ -273,6 +273,10 @@ footer.nav-link{
     .plan{
         margin: auto;
         margin-top: 10px;
+          padding: 20px;
+        height: 400px;
+        width: 300px;
+        
     }
 
        .right-img img{
@@ -286,8 +290,7 @@ footer.nav-link{
     }
 
         .card{
-        width: 18rem;
-        
+        width:18rem;
     }
 
 
